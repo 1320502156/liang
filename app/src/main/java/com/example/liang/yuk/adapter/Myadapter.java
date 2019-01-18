@@ -72,7 +72,6 @@ public class Myadapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
             private final ImageView img;
             private final TextView tv1;
             private final TextView tv2;
-是U和是用于给uguiubb
 
             public OneviewHolder(View itemView) {
                 super(itemView);
